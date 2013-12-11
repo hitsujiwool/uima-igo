@@ -108,6 +108,7 @@
       <groupId>net.reduls</groupId>
       <artifactId>igo</artifactId>
       <version>0.4.5</version>
+	  <optional>true</optional>
     </dependency>
     <dependency>
       <groupId>org.apache.uima</groupId>
